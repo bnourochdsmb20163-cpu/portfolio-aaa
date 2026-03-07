@@ -1,4 +1,4 @@
-// Smooth scroll for navigation links
+// smooth scroll navigation
 
 document.querySelectorAll("nav a").forEach(link => {
 
